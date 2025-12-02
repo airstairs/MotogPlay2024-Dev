@@ -17,3 +17,35 @@ pkg upgrade
 
 step 3  
 
+pip install pandas  
+
+step 4  
+
+pip install seaborn  
+
+step 5  
+
+pip install setuptools wheel packaging pyproject_metadata cython meson-python versioneer  
+
+step 6  
+
+install scikit-learn --no-build-isolation  
+
+step 7  
+
+pip install jupyter  
+
+then run python and test imports
+
+>>> import numpy
+>>> import matplotlib
+>>> import scipy
+>>> import pandas
+>>> import seaborn
+>>> import sklearn
+>>> import jupyter
+>>> 
+>>> 
+>>> 
+
+:D get fucked bad guys <3
