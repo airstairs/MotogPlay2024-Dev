@@ -29,7 +29,7 @@ pip install setuptools wheel packaging pyproject_metadata cython meson-python ve
 
 step 6  
 
-install scikit-learn --no-build-isolation  
+pip install scikit-learn --no-build-isolation  
 
 step 7  
 
