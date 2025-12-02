@@ -37,15 +37,13 @@ pip install jupyter
 
 then run python and test imports
 
->>> import numpy
->>> import matplotlib
->>> import scipy
->>> import pandas
->>> import seaborn
->>> import sklearn
->>> import jupyter
->>> 
->>> 
->>> 
+import numpy  
+import matplotlib  
+import scipy  
+import pandas  
+import seaborn  
+import sklearn  
+import jupyter  
+
 
 :D get fucked bad guys <3
