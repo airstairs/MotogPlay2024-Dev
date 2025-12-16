@@ -46,4 +46,16 @@ import sklearn
 import jupyter  
 
 
-:D get fucked bad guys <3
+:D get fucked bad guys <3  
+  
+
+p.  
+s.
+
+also see  
+
+colab.new.com  
+
+and   
+
+https://play.google.com/store/apps/details?id=iiec.pyramide.python
