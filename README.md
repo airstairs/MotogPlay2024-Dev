@@ -54,7 +54,7 @@ s.
 
 also see  
 
-colab.new.com  
+https://colab.new
 
 and   
 
