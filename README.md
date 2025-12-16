@@ -46,9 +46,6 @@ import sklearn
 import jupyter  
 
 
-:D get fucked bad guys <3  
-  
-
 p.  
 s.
 
@@ -56,6 +53,3 @@ also see
 
 https://colab.new
 
-and   
-
-https://play.google.com/store/apps/details?id=iiec.pyramide.python
