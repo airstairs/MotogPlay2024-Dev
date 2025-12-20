@@ -1,6 +1,6 @@
 # MotogPlay2024-Dev
 
-This setups the usage of rust, clang, git, tmux, vim, openssh, and the python tools numpy matplotlib scipy pandas seaborn sklearn flask and Jupyter in the Google play version of termux for Android on the Moto g play 2024 $29 from Walmart straight talk shelf  
+This setups the usage of rust, clang, git, tmux, vim, openssh, and the python tools numpy matplotlib scipy pandas seaborn sklearn flask and Jupyter in the Google play version of termux for Android on the Moto g play 2024 $29 from Walmart straight talk shelf (no activation required to use if you have WiFi access)
 
 
 <hr>  
