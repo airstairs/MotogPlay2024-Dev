@@ -55,5 +55,23 @@ s.
 
 also see  
 
-https://colab.new
+https://colab.new  
+
+
+
+P.S  python 3.12+ updates
+
+you gotta  
+
+pkg install python-psutil  
+
+then reinstall jupyter gemini said it still looking for py 3.12 
+
+so pyzmq psutil shit again
+
+gotta install with pkg not pip from commans above then  
+
+pip install jupyter 
+
+reinstall jupyter worked for me willntest on morenhandsets soon 
 
